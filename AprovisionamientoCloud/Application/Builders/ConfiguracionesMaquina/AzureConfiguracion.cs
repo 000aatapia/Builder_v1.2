@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Enumeraciones
+namespace Application.Builders.ConfiguracionesMaquina
 {
-    public enum ProveedorCloud
+    internal class AzureConfiguracion
     {
-        AWS,
-        Azure,
-        GCP,
-        OnPremise
     }
 }
-

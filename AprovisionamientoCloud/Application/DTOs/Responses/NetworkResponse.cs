@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Enumeraciones
+namespace Application.DTOs.Responses
 {
-    public enum TipoMaquina
+    internal class NetworkResponse
     {
-        Standard,
-        MemoryOptimized,
-        ComputeOptimized
     }
 }

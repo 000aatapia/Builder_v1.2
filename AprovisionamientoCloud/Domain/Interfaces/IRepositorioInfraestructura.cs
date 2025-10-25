@@ -1,4 +1,4 @@
-﻿using Domain.Entidades;
+﻿using Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +9,9 @@ namespace Domain.Interfaces
 {
     public interface IRepositorioInfraestructura
     {
-
-        Task<VirtualMachine> GuardarVirtualMachine(VirtualMachine vm);
-        Task<VirtualMachine?> ObtenerVirtualMachinePorId(Guid id);
-        Task<List<VirtualMachine>> ObtenerTodasLasVirtualMachines();
-        Task<bool> EliminarVirtualMachine(Guid id);
+        Task<ConfiguracionInfraestructura> AgregarAsync(ConfiguracionInfraestructura configuracion);
+        Task<ConfiguracionInfraestructura?> ObtenerPorIdAsync(string id);
+        Task<List<ConfiguracionInfraestructura>> ObtenerTodasAsync();
+        Task<bool> EliminarAsync(string id);
     }
 }
