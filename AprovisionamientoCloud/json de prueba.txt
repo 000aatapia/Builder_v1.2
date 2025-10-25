@@ -1,0 +1,21 @@
+{
+  "provider": " AWS",
+  "tipoMaquina": " Standard",
+  "tamañoInstancia": "Small",
+  "red": {
+    "region": "us-east-1",
+    "firewallRules": [
+      "string"
+    ],
+    "publicIP": true
+  },
+  "almacenamiento": {
+    "region": "us-east-1",
+    "iops": 0,
+    "capacidadGB": 100
+  },
+  "keyPairName": "default-key",
+  "firewallRulesAdicionales": [
+    "string"
+  ]
+}
