@@ -10,11 +10,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Directors\" />
-    <Folder Include="Factories\Proveedores\" />
-    <Folder Include="Validadores\" />
-    <Folder Include="Servicios\" />
-  </ItemGroup>
-
 </Project>
