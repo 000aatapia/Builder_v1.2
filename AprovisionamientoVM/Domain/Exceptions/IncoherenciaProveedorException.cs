@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Domain.Exceptions
 {
-    internal class IncoherenciaProveedorException
+    public class IncoherenciaProveedorException : ValidacionDominioException
     {
+        public IncoherenciaProveedorException(string mensaje) : base(mensaje)
+        {
+        }
     }
 }
