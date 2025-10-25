@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\infraestructure\\data\\almacenamientoenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\almacenamientoenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\infraestructure\\repositories\\repositorioinfraestructuraenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\repositorioinfraestructuraenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\directors\\catalogoinstancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\directors\\catalogoinstancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\tama\u00F1oinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tama\u00F1oinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\tipomaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tipomaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\proveedornube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\proveedornube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\directors\\directormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\directors\\directormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\builders\\constructormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\builders\\constructormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\builders\\iconstructormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\builders\\iconstructormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\configuracioninfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\configuracioninfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\maquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\maquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\controllers\\aprovisionamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\aprovisionamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA645AD3-1B20-4938-B4A6-7B66AAA0E471}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5840487E-A8AA-466A-9133-4EA3BDC2EF88}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\services\\servicioaprovisionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\factories\\ifactoriarecursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\directors\\catalogoinstancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\directors\\catalogoinstancias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\directors\\directormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\directors\\directormaquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\application\\dtos\\responses\\infraestructuraresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFE7951-4B22-47A4-BB09-6741A8335E09}|Application\\Application.csproj|solutionrelative:application\\dtos\\responses\\infraestructuraresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,34 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\interfaces\\irepositorioinfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorioinfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\configuracioninfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\configuracioninfraestructura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\entities\\maquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\maquinavirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\tipomaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tipomaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\tama\u00F1oinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\tama\u00F1oinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|c:\\users\\0user\\source\\builder\\aprovisionamientocloud\\domain\\enums\\proveedornube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8953BCA2-F0B3-4C98-82E0-6BB3D4849A7E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\proveedornube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,351 +170,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T07:08:34.413Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConstructorMaquinaVirtual.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\ConstructorMaquinaVirtual.cs",
-              "RelativeDocumentMoniker": "Application\\Builders\\ConstructorMaquinaVirtual.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\ConstructorMaquinaVirtual.cs",
-              "RelativeToolTip": "Application\\Builders\\ConstructorMaquinaVirtual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:52:06.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ServicioAprovisionamiento.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioAprovisionamiento.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ServicioAprovisionamiento.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioAprovisionamiento.cs",
-              "RelativeToolTip": "Application\\Services\\ServicioAprovisionamiento.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwLwAAAABAAAAAAAAAA==",
+              "Title": "AlmacenamientoEnMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Data\\AlmacenamientoEnMemoria.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AlmacenamientoEnMemoria.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Data\\AlmacenamientoEnMemoria.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AlmacenamientoEnMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:49:10.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServicioValidacion.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioValidacion.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\ServicioValidacion.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioValidacion.cs",
-              "RelativeToolTip": "Application\\Services\\ServicioValidacion.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwHEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:42:43.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IConstructorMaquinaVirtual.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\IConstructorMaquinaVirtual.cs",
-              "RelativeDocumentMoniker": "Application\\Builders\\IConstructorMaquinaVirtual.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\IConstructorMaquinaVirtual.cs",
-              "RelativeToolTip": "Application\\Builders\\IConstructorMaquinaVirtual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:33:20.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IServicioAprovisionamiento.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Interfaces\\IServicioAprovisionamiento.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IServicioAprovisionamiento.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Interfaces\\IServicioAprovisionamiento.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IServicioAprovisionamiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:45:13.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T06:59:08.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FactoriaRecursosOnPremise.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosOnPremise.cs",
-              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosOnPremise.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosOnPremise.cs",
-              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosOnPremise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:39:18.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FactoriaRecursosGCP.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosGCP.cs",
-              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosGCP.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosGCP.cs",
-              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosGCP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:39:05.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FactoriaRecursosAzure.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAzure.cs",
-              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosAzure.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAzure.cs",
-              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosAzure.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:38:57.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FactoriaRecursosAWS.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAWS.cs",
-              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosAWS.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAWS.cs",
-              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosAWS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:37:44.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFactoriaRecursos.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\IFactoriaRecursos.cs",
-              "RelativeDocumentMoniker": "Application\\Factories\\IFactoriaRecursos.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\IFactoriaRecursos.cs",
-              "RelativeToolTip": "Application\\Factories\\IFactoriaRecursos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:36:46.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CatalogoInstancias.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\CatalogoInstancias.cs",
-              "RelativeDocumentMoniker": "Application\\Directors\\CatalogoInstancias.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\CatalogoInstancias.cs",
-              "RelativeToolTip": "Application\\Directors\\CatalogoInstancias.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAA1wGgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:28:36.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DirectorMaquinaVirtual.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\DirectorMaquinaVirtual.cs",
-              "RelativeDocumentMoniker": "Application\\Directors\\DirectorMaquinaVirtual.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\DirectorMaquinaVirtual.cs",
-              "RelativeToolTip": "Application\\Directors\\DirectorMaquinaVirtual.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:28:25.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InfraestructuraResponse.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
-              "RelativeToolTip": "Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:26:12.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ResultadoOperacion.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\ResultadoOperacion.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Responses\\ResultadoOperacion.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\ResultadoOperacion.cs",
-              "RelativeToolTip": "Application\\DTOs\\Responses\\ResultadoOperacion.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:24:38.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CrearInfraestructuraRequest.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
-              "RelativeToolTip": "Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:20:52.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AlmacenamientoDto.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:20:44.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RedDto.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\RedDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\RedDto.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\RedDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\Requests\\RedDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:20:37.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MaquinaVirtualDto.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:20:26.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ConfiguracionInfraestructura.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\ConfiguracionInfraestructura.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\ConfiguracionInfraestructura.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\ConfiguracionInfraestructura.cs",
-              "RelativeToolTip": "Domain\\Entities\\ConfiguracionInfraestructura.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA2wCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:06:41.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Almacenamiento.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Almacenamiento.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Almacenamiento.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Almacenamiento.cs",
-              "RelativeToolTip": "Domain\\Entities\\Almacenamiento.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:05:20.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Red.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Red.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Red.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Red.cs",
-              "RelativeToolTip": "Domain\\Entities\\Red.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:04:12.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRepositorioInfraestructura.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Interfaces\\IRepositorioInfraestructura.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositorioInfraestructura.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Interfaces\\IRepositorioInfraestructura.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositorioInfraestructura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:08:26.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EspecificacionInstancia.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\ValueObjects\\EspecificacionInstancia.cs",
-              "RelativeDocumentMoniker": "Domain\\ValueObjects\\EspecificacionInstancia.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\ValueObjects\\EspecificacionInstancia.cs",
-              "RelativeToolTip": "Domain\\ValueObjects\\EspecificacionInstancia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:01:36.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MaquinaVirtual.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\MaquinaVirtual.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\MaquinaVirtual.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\MaquinaVirtual.cs",
-              "RelativeToolTip": "Domain\\Entities\\MaquinaVirtual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:02:45.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "TipoMaquina.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\TipoMaquina.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\TipoMaquina.cs",
               "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\TipoMaquina.cs",
               "RelativeToolTip": "Domain\\Enums\\TipoMaquina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T05:59:14.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Tama\u00F1oInstancia.cs",
-              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\Tama\u00F1oInstancia.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\Tama\u00F1oInstancia.cs",
-              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\Tama\u00F1oInstancia.cs",
-              "RelativeToolTip": "Domain\\Enums\\Tama\u00F1oInstancia.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RepositorioInfraestructuraEnMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Repositories\\RepositorioInfraestructuraEnMemoria.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\RepositorioInfraestructuraEnMemoria.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Repositories\\RepositorioInfraestructuraEnMemoria.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\RepositorioInfraestructuraEnMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T06:00:07.053Z"
+              "WhenOpened": "2025-10-25T07:00:26.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T07:16:28.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:04:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProveedorNube.cs",
               "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\ProveedorNube.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\ProveedorNube.cs",
@@ -471,6 +261,402 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T05:58:44.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectorMaquinaVirtual.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\DirectorMaquinaVirtual.cs",
+              "RelativeDocumentMoniker": "Application\\Directors\\DirectorMaquinaVirtual.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\DirectorMaquinaVirtual.cs",
+              "RelativeToolTip": "Application\\Directors\\DirectorMaquinaVirtual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:28:25.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogoInstancias.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\CatalogoInstancias.cs",
+              "RelativeDocumentMoniker": "Application\\Directors\\CatalogoInstancias.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Directors\\CatalogoInstancias.cs",
+              "RelativeToolTip": "Application\\Directors\\CatalogoInstancias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:28:36.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tama\u00F1oInstancia.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\Tama\u00F1oInstancia.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Tama\u00F1oInstancia.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Enums\\Tama\u00F1oInstancia.cs",
+              "RelativeToolTip": "Domain\\Enums\\Tama\u00F1oInstancia.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:00:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Red.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Red.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Red.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Red.cs",
+              "RelativeToolTip": "Domain\\Entities\\Red.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:04:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConstructorMaquinaVirtual.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\ConstructorMaquinaVirtual.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\ConstructorMaquinaVirtual.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\ConstructorMaquinaVirtual.cs",
+              "RelativeToolTip": "Application\\Builders\\ConstructorMaquinaVirtual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:52:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T07:10:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IConstructorMaquinaVirtual.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\IConstructorMaquinaVirtual.cs",
+              "RelativeDocumentMoniker": "Application\\Builders\\IConstructorMaquinaVirtual.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Builders\\IConstructorMaquinaVirtual.cs",
+              "RelativeToolTip": "Application\\Builders\\IConstructorMaquinaVirtual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:33:20.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfiguracionInfraestructura.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\ConfiguracionInfraestructura.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ConfiguracionInfraestructura.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\ConfiguracionInfraestructura.cs",
+              "RelativeToolTip": "Domain\\Entities\\ConfiguracionInfraestructura.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:06:41.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Almacenamiento.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Almacenamiento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Almacenamiento.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\Almacenamiento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Almacenamiento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:05:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaquinaVirtual.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\MaquinaVirtual.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\MaquinaVirtual.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Entities\\MaquinaVirtual.cs",
+              "RelativeToolTip": "Domain\\Entities\\MaquinaVirtual.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:02:45.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T07:06:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T07:10:37.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:14:40.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:14:43.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AprovisionamientoController.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Controllers\\AprovisionamientoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AprovisionamientoController.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\Controllers\\AprovisionamientoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AprovisionamientoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:02:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T07:07:14.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T07:10:24.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServicioAprovisionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioAprovisionamiento.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServicioAprovisionamiento.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioAprovisionamiento.cs",
+              "RelativeToolTip": "Application\\Services\\ServicioAprovisionamiento.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:49:10.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServicioValidacion.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioValidacion.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServicioValidacion.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Services\\ServicioValidacion.cs",
+              "RelativeToolTip": "Application\\Services\\ServicioValidacion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:42:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IServicioAprovisionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Interfaces\\IServicioAprovisionamiento.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IServicioAprovisionamiento.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Interfaces\\IServicioAprovisionamiento.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IServicioAprovisionamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:45:13.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FactoriaRecursosOnPremise.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosOnPremise.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosOnPremise.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosOnPremise.cs",
+              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosOnPremise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:39:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FactoriaRecursosGCP.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosGCP.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosGCP.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosGCP.cs",
+              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosGCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:39:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FactoriaRecursosAzure.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAzure.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosAzure.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAzure.cs",
+              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosAzure.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:38:57.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FactoriaRecursosAWS.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAWS.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\FactoriaRecursosAWS.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\FactoriaRecursosAWS.cs",
+              "RelativeToolTip": "Application\\Factories\\FactoriaRecursosAWS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:37:44.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFactoriaRecursos.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\IFactoriaRecursos.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\IFactoriaRecursos.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\Factories\\IFactoriaRecursos.cs",
+              "RelativeToolTip": "Application\\Factories\\IFactoriaRecursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:36:46.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InfraestructuraResponse.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\Responses\\InfraestructuraResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:26:12.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ResultadoOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\ResultadoOperacion.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Responses\\ResultadoOperacion.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Responses\\ResultadoOperacion.cs",
+              "RelativeToolTip": "Application\\DTOs\\Responses\\ResultadoOperacion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:24:38.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CrearInfraestructuraRequest.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\Requests\\CrearInfraestructuraRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:20:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AlmacenamientoDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Requests\\AlmacenamientoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:20:44.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RedDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\RedDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\RedDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\RedDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Requests\\RedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:20:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MaquinaVirtualDto.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Requests\\MaquinaVirtualDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:20:26.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRepositorioInfraestructura.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Interfaces\\IRepositorioInfraestructura.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositorioInfraestructura.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\Interfaces\\IRepositorioInfraestructura.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositorioInfraestructura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:08:26.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EspecificacionInstancia.cs",
+              "DocumentMoniker": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\ValueObjects\\EspecificacionInstancia.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\EspecificacionInstancia.cs",
+              "ToolTip": "C:\\Users\\0User\\source\\Builder\\AprovisionamientoCloud\\Domain\\ValueObjects\\EspecificacionInstancia.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\EspecificacionInstancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:01:36.04Z"
             }
           ]
         }
